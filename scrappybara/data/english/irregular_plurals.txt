@@ -1,0 +1,22 @@
+booklice	booklouse
+children	child
+deer	deer
+dice	dice
+feet	foot
+geese	goose
+hot dogs	hot dog
+lice	louse
+men	man
+mice	mouse
+moose	moose
+oxen	ox
+people	people
+sealice	sealouse
+series	series
+sheep	sheep
+shrimp	shrimp
+species	species
+swine	swine
+teeth	tooth
+trout	trout
+vortices	vortex

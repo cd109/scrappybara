@@ -1,0 +1,4 @@
+best	good
+farthest	far
+furthest	far
+worst	bad

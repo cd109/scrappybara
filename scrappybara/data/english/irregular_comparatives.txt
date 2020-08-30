@@ -1,0 +1,4 @@
+better	good
+farther	far
+further	far
+worse	bad

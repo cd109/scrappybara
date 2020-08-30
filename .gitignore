@@ -1,0 +1,12 @@
+# IDEs
+.DS_Store/
+.idea/
+
+# Compiled code
+__pycache__/
+*.pyc
+
+# Distribution
+dist/
+build/
+scrappybara.egg-info/
