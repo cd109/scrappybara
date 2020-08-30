@@ -12,7 +12,7 @@ Scappybara focuses on a single language: English. You won't have to bother with 
 
 ## Official website
 
-* [scrappybara.com](https://scrappybara.com) (with tutorials & documentation)
+* [ericperriard.github.io/scrappybara](https://ericperriard.github.io/scrappybara) (with tutorials & documentation)
 
 ## Where to ask questions
 
@@ -51,4 +51,4 @@ And you should see 2 predicates of type **NOUN**+**VERB**+**NOUN**:
 [OTN(i, have, dog), NCA(dog, be, derpy)]
 ```
 
-For more examples, see the tutorials on the [official website](https://scrappybara.com).
+For more examples, see the tutorials on the [official website](https://ericperriard.github.io/scrappybara).
