@@ -24,6 +24,7 @@ setuptools.setup(
         "scrappybara.utils",
     ],
     include_package_data=True,
+    install_requires=["numpy", "tensorflow"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3 :: Only",
