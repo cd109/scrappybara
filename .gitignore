@@ -6,6 +6,9 @@
 __pycache__/
 *.pyc
 
+# Development environment
+dev/
+
 # Distribution
 dist/
 build/
