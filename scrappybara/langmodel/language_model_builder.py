@@ -66,7 +66,7 @@ class LanguageModelBuilder(object):
         print('Total execution time: {}'.format(timer.total_time))
 
     def __write_ngram_file(self, order, ngrams):
-        filepath = self.__folder_path / ('%d_grams.txt' % order)
+        filepath = self.__folder_path + '/' + ('%d_grams.txt' % order)
         with open(filepath, 'w', encoding='utf-8') as writer:
             for ngram in sorted(ngrams, reverse=True):
                 if ngram.proba > 0.0:
